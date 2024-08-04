@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.place-img {
+  width: 20vw;
+}
+.place-name {
+  font-size: 12px;
+}
+li {
+  margin: 5px;
+}
+@media screen and (max-width: 577px) {
+  .place-img {
+    width: 85vw;
+  }
+}
